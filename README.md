@@ -1,2 +1,2 @@
-# SampleProject
+# SampleProjects
 All basic concepts workout
